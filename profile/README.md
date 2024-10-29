@@ -1,9 +1,9 @@
 ## Welcome to AVITHRAPID
 
-🙋‍♀️ Our mission: Establishing a pipeline of early stage drug candidates based on a set of small molecules whose bioactivity against various viral targets has been already shown and which can be rapidly translated into novel antiviral agents against emerging infectious diseases with pandemic potential.
-🍿 Our lifetime: Jan 2024 - Jun 2028
-🧙 Our funders: European Union EU and Swiss State Secretariat for Education, Research and Innovation SERI
-🌈 More information: https://cordis.europa.eu/project/id/101137192 
+* 🙋‍♀️ Our mission: Establishing a pipeline of early stage drug candidates based on a set of small molecules whose bioactivity against various viral targets has been already shown and which can be rapidly translated into novel antiviral agents against emerging infectious diseases with pandemic potential.
+* 🍿 Our lifetime: Jan 2024 - Jun 2028
+* 🧙 Our funders: European Union EU and Swiss State Secretariat for Education, Research and Innovation SERI
+* 🌈 More information: https://cordis.europa.eu/project/id/101137192 
 
 ## About the project
 The [AVITHRAPID consortium “Antiviral Therapeutics for Rapid Response Against Pandemic Infectious Diseases”](https://avithrapid.eu/) is part of the Horizon Europe Framework Programme topic “Pandemic preparedness and response: Broad spectrum anti-viral therapeutics for infectious diseases with epidemic potential”. It was launched in January 2024 with a budget of 50 million Euro to combat and prevent pandemics more efficiently. The Swiss Partners in the AVITHRAPID consortium are funded by the Swiss State Secretariat for Education, Research and Innovation SERI.
